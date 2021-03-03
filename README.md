@@ -1,6 +1,8 @@
+![Obstacle-Game-SS](https://user-images.githubusercontent.com/69651222/109839257-ff2bed80-7c57-11eb-9be9-703e563e1c3d.PNG)
+
 # Obstacle-Game
-This is my first game. Just a MVP, as i learned more about Unity, i will add more features.
-Simply move the player without crashing into obstacles.
+This is my first game. Just a MVP.I built it by following a course on Udemy, as i learned more about game development, i will add more features.
+Game Description : Simply move the player without crashing into obstacles.
 
 
 ## TODO 
