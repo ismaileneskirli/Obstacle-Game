@@ -1,0 +1,18 @@
+Add different platforms..
+
+Collect points, buy upgrade. (small squishy)
+
+Different playes (other than squishy)
+
+Adjustable speed
+
+
+Add a timer
+
+Print scor in ui ( 100- 10*qrushtime)
+
+finish the game when reached the end.
+
+
+
+
