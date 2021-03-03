@@ -2,7 +2,10 @@
 
 # Obstacle-Game
 This is my first game. Just a MVP.I built it by following a course on Udemy, as i learned more about game development, i will add more features.
-Game Description : Simply move the player without crashing into obstacles.
+
+
+## Game Description : 
+Simply move the player without crashing into obstacles.
 
 
 ## TODO 
