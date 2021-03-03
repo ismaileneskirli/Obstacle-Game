@@ -5,7 +5,7 @@ This is my first game. Just a MVP.I built it by following a course on Udemy, as 
 
 
 ## Game Description : 
-Simply move the player without crashing into obstacles.
+Simply move the player without crashing into obstacles. Try to reach to the other pink square.
 
 
 ## TODO 
